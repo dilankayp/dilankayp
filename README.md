@@ -2,8 +2,8 @@
 <h3 align="center">Android & Embedded Systems Developer · Kotlin / Jetpack Compose · Mechatronics</h3>
 
 <p align="center">
-  <a href="https://sendtodilanka.github.io"><img src="https://img.shields.io/badge/Website-sendtodilanka.github.io-blue?style=flat-square&logo=github" alt="Website" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sendtodilanka&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://dilankayp.github.io"><img src="https://img.shields.io/badge/Website-dilankayp.github.io-blue?style=flat-square&logo=github" alt="Website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dilankayp&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
@@ -59,27 +59,27 @@
 
 | Project | Description |
 | --- | --- |
-| [**claude-android-ninja**](https://github.com/sendtodilanka/claude-android-ninja) | 🥷 Agent Skill for Android development — Kotlin & Jetpack Compose, modular architecture, Navigation3, Gradle conventions & testing best practices |
-| [**claude-code-aso-skill**](https://github.com/sendtodilanka/claude-code-aso-skill) | 📈 App Store Optimization (ASO) Skill for Claude Code — keyword research, metadata generation, competitor analysis & launch planning |
-| [**PdfViewer**](https://github.com/sendtodilanka/PdfViewer) | 📄 Lightweight Android PDF viewer library powered by Mozilla PDF.js — supports both Jetpack Compose and XML |
-| [**ZyntaSchoolBell**](https://github.com/sendtodilanka/ZyntaSchoolBell) | 🔔 School Period Alarm System |
-| [**sendtodilanka.github.io**](https://github.com/sendtodilanka/sendtodilanka.github.io) | 🌐 Home of my Android apps |
+| [**claude-android-ninja**](https://github.com/dilankayp/claude-android-ninja) | 🥷 Agent Skill for Android development — Kotlin & Jetpack Compose, modular architecture, Navigation3, Gradle conventions & testing best practices |
+| [**claude-code-aso-skill**](https://github.com/dilankayp/claude-code-aso-skill) | 📈 App Store Optimization (ASO) Skill for Claude Code — keyword research, metadata generation, competitor analysis & launch planning |
+| [**PdfViewer**](https://github.com/dilankayp/PdfViewer) | 📄 Lightweight Android PDF viewer library powered by Mozilla PDF.js — supports both Jetpack Compose and XML |
+| [**ZyntaSchoolBell**](https://github.com/dilankayp/ZyntaSchoolBell) | 🔔 School Period Alarm System |
+| [**dilankayp.github.io**](https://github.com/dilankayp/dilankayp.github.io) | 🌐 Home of my Android apps |
 
 🚧 *Many more apps & firmware projects in development — most of my work lives in private repos.*
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sendtodilanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendtodilanka&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilankayp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilankayp&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sendtodilanka&theme=tokyonight&hide_border=true&locale=en" height="165" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=dilankayp&theme=tokyonight&hide_border=true&locale=en" height="165" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/sendtodilanka/sendtodilanka/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/dilankayp/dilankayp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<h3 align="center">⭐️ From [Dilanka Laksiri](https://github.com/sendtodilanka)</h3>
+<h3 align="center">⭐️ From [Dilanka Laksiri](https://github.com/dilankayp)</h3>
