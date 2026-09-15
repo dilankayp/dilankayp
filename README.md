@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Mechatronic Technology** — spanning mechanical, electrical, and software engineering
+- 🎓 **B.Tech in Mechatronics Technology** — spanning mechanical, electrical, and software engineering
 - 🔩 **Embedded development specialist**: MCU programming, PCB design & firmware development
 - 🏭 **Factory automation**: PLC programming, pneumatic & hydraulic systems, MATLAB, and SolidWorks
 - 📱 **Android Developer** building apps with **Kotlin** and **Jetpack Compose** — from translator & dictionary apps to POS systems and utility tools
