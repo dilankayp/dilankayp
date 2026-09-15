@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Dilanka Laksiri</h1>
-<h3 align="center">Android Developer · Kotlin & Jetpack Compose · AI-assisted tooling</h3>
+<h3 align="center">Android & Embedded Systems Developer · Kotlin / Jetpack Compose · Mechatronics</h3>
 
 <p align="center">
   <a href="https://sendtodilanka.github.io"><img src="https://img.shields.io/badge/Website-sendtodilanka.github.io-blue?style=flat-square&logo=github" alt="Website" /></a>
@@ -8,6 +8,9 @@
 
 ## 🚀 About Me
 
+- 🎓 **B.Tech in Mechatronic Technology** — spanning mechanical, electrical, and software engineering
+- 🔩 **Embedded development specialist**: MCU programming, PCB design & firmware development
+- 🏭 **Factory automation**: PLC programming, pneumatic & hydraulic systems, MATLAB, and SolidWorks
 - 📱 **Android Developer** building apps with **Kotlin** and **Jetpack Compose** — from translator & dictionary apps to POS systems and utility tools
 - 🤖 Exploring **AI-assisted development**: authoring agent skills for Android development and App Store Optimization
 - 🌐 Tinkering with **OpenWrt / NSS firmware** on embedded network hardware
@@ -36,6 +39,22 @@
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
+### ⚙️ Mechatronics & Embedded
+
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20C-5C2D91?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/MCU%20Programming-00599C?style=for-the-badge&logo=chip&logoColor=white" alt="MCU Programming" />
+  <img src="https://img.shields.io/badge/PCB%20Design-009639?style=for-the-badge" alt="PCB Design" />
+  <img src="https://img.shields.io/badge/PLC%20Programming-005CAD?style=for-the-badge" alt="PLC Programming" />
+  <img src="https://img.shields.io/badge/Pneumatics-0EA5E9?style=for-the-badge" alt="Pneumatics" />
+  <img src="https://img.shields.io/badge/Hydraulics-1D4ED8?style=for-the-badge" alt="Hydraulics" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/SolidWorks-D4111E?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
+</p>
+
 ## 🌟 Featured Projects
 
 | Project | Description |
@@ -46,7 +65,7 @@
 | [**ZyntaSchoolBell**](https://github.com/sendtodilanka/ZyntaSchoolBell) | 🔔 School Period Alarm System |
 | [**sendtodilanka.github.io**](https://github.com/sendtodilanka/sendtodilanka.github.io) | 🌐 Home of my Android apps |
 
-🚧 *Many more apps in development — most of my work lives in private repos.*
+🚧 *Many more apps & firmware projects in development — most of my work lives in private repos.*
 
 ## 📊 GitHub Stats
 
