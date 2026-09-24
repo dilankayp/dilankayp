@@ -8,7 +8,7 @@
 
 ## 🏆 The "Impossible" Feature — A World's First
 
-> The Arcadyan AW1000 5G router ships with an RJ11 phone port that has **never worked on OpenWrt**. The SLIC chip sits unbound on the SPI bus, no driver exists anywhere in the ecosystem, and even the modem vendor's own engineers said new drivers require the vendor's closed firmware source. The community called it impossible.
+> The Arcadyan AW1000 5G router ships with an RJ11 phone port that has **never worked on OpenWrt**. Its SLIC chip sits unbound on the SPI bus, no driver for it exists anywhere in the ecosystem, and the community's requests for one — on the vendor and OpenWrt forums — have gone unanswered. Nobody had ever made it work.
 >
 > **I built it anyway.** By reverse-engineering the stock firmware, I wrote an entire proprietary kernel driver stack — the PCM/DMA audio subsystem, audio clocks, DMA mailbox, and SLIC support — then bridged 5G VoLTE calls to a real analog handset through a custom Asterisk channel driver. The world's first working analog phone (FXS) voice stack on this hardware: **ZyntaVoice™**.
 >
