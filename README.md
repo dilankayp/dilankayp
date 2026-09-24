@@ -6,6 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=dilankayp&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
+## 🏆 The "Impossible" Feature — A World's First
+
+> The Arcadyan AW1000 5G router ships with an RJ11 phone port that has **never worked on OpenWrt**. The SLIC chip sits unbound on the SPI bus, no driver exists anywhere in the ecosystem, and even the modem vendor's own engineers said new drivers require the vendor's closed firmware source. The community called it impossible.
+>
+> **I built it anyway.** By reverse-engineering the stock firmware, I wrote an entire proprietary kernel driver stack — the PCM/DMA audio subsystem, audio clocks, DMA mailbox, and SLIC support — then bridged 5G VoLTE calls to a real analog handset through a custom Asterisk channel driver. The world's first working analog phone (FXS) voice stack on this hardware: **ZyntaVoice™**.
+>
+> *Sometimes "impossible" just means "nobody has done it yet."*
+
 ## 🚀 About Me
 
 - 🎓 **B.Tech in Mechatronics Technology** — spanning mechanical, electrical, and software engineering
