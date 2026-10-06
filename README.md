@@ -63,18 +63,6 @@
   <img src="https://img.shields.io/badge/SolidWorks-D4111E?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
 </p>
 
-## 🌟 Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [**claude-android-ninja**](https://github.com/dilankayp/claude-android-ninja) | 🥷 Agent Skill for Android development — Kotlin & Jetpack Compose, modular architecture, Navigation3, Gradle conventions & testing best practices |
-| [**claude-code-aso-skill**](https://github.com/dilankayp/claude-code-aso-skill) | 📈 App Store Optimization (ASO) Skill for Claude Code — keyword research, metadata generation, competitor analysis & launch planning |
-| [**PdfViewer**](https://github.com/dilankayp/PdfViewer) | 📄 Lightweight Android PDF viewer library powered by Mozilla PDF.js — supports both Jetpack Compose and XML |
-| [**ZyntaSchoolBell**](https://github.com/dilankayp/ZyntaSchoolBell) | 🔔 School Period Alarm System |
-| [**dilankayp.github.io**](https://github.com/dilankayp/dilankayp.github.io) | 🌐 Home of my Android apps |
-
-🚧 *Many more apps & firmware projects in development — most of my work lives in private repos.*
-
 ## 📊 GitHub Stats
 
 <p align="center">
